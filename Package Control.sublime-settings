@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"Codecs33",
+		"Compass",
+		"ConvertToUTF8",
+		"CSS Snippets",
+		"EditorConfig",
+		"EJS",
+		"Emmet",
+		"HTML5",
+		"InputSequence",
+		"LESS",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Monokai Extended",
+		"Package Control",
+		"Sass",
+		"SASS Snippets",
+		"SCSS",
+		"SideBarEnhancements",
+		"Stylus",
+		"Stylus-Snippets"
+	],
+	"repositories":
+	[
+		"https://github.com/kazu1107/InputSequence.git"
+	]
+}
